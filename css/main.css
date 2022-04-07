@@ -1,0 +1,13 @@
+html
+
+section{
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+
+section div{
+  width: 33.3333%
+  margin: 1em
+
+}
